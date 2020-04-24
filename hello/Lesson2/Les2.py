@@ -3,7 +3,7 @@ counter = 0 # current step in 10
 
 alphabet = '0123456789abcdefghijklmnopqrstuvwxyz'
 base = len(alphabet)
-while k < 4:
+while True:
     number = '' #password string in our count sys
 
     #code
